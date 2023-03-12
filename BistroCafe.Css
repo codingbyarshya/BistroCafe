@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    border:2px solid aqua;
+    border-radius: 5px;
+    width:720px;
+    height:750px;
+    margin-left: 400px;
+}
+h1{
+    color:aqua;
+    text-align: center;
+}
+.body-left{
+    color:aqua;
+    margin-top: 40px;
+   
+}
+.hookah1{
+    height: 150px;
+    margin-left: 90px;
+    border-radius: 30%;
+    position: absolute;
+    top: 400px;
+    left: 380px;
+    filter: brightness(85%);
+}
+.body-right{
+    color:aqua;
+    margin-left:400px;
+    margin-top:50px;
+    
+}
+.hookah2{
+    height: 150px;
+    margin-left: 90px;
+    border-radius: 30%;
+    position: absolute;
+    top: 100px;
+    left: 770px;
+}
+.Bistrocafe{
+    height: 70px;
+    margin-left: 325px;
+    border-radius: 50%;
+    position: absolute;
+    top: 670px;
+    left: 422px;
+}
+p{
+    color:aqua;
+    margin-left: 34px;
+    margin-top: 63px;
+}
